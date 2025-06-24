@@ -1088,6 +1088,7 @@ if (file_exists($lang_file)) {
                             <option value="ws">ws</option>
                             <option value="tcp">tcp</option>
                             <option value="grpc">grpc</option>
+                            <option value="xhttp">xhttp</option>
                         </select>
                     </label>
 
